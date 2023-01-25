@@ -6,7 +6,7 @@ export default siteConfig({
 //f70d452674f1458f8584276faa06dccd //7875426197cf461698809def95960ebf//c2b4123d3fe74aefa2717fe3b3306cad//
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
-  rootNotionSpaceId: null,
+  rootNotionSpaceId: false,
 
   // basic site info (required)
   name: 'Zhenchao Qi',
@@ -26,7 +26,7 @@ export default siteConfig({
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
-  defaultPageIcon: true,
+  defaultPageIcon: false,
   defaultPageCover: true,
   defaultPageCoverPosition: 0.5,
 
