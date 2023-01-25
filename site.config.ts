@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Zhenchao Qi',
-  domain: 'kevinknow.cn',
+  domain: 'Kevin’s Blog',
   author: 'Kevin Chi',
 
   // open graph metadata (optional)
