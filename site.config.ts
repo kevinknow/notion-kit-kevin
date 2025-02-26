@@ -51,15 +51,15 @@ export default siteConfig({
   // whether to use the default notion navigation style or a custom one with links to
   // important pages
   navigationStyle: 'default'
-  // navigationStyle: 'custom',
-  // navigationLinks: [
-  //   {
-  //     title: 'About',
-  //     pageId: 'f1199d37579b41cbabfc0b5174f4256a'
-  //   },
-  //   {
-  //     title: 'Contact',
-  //     pageId: '6a29ebcb935a4f0689fe661ab5f3b8d1'
-  //   }
-  // ]
+   navigationStyle: 'custom',
+   navigationLinks: [
+    {
+      title: 'About',
+     pageId: 'c10252a90b224b4092c39023c1e1b45c'
+    },
+    {
+       title: 'How to build a Blog ?',
+       pageId: '167a926bd6ec80a7b2ccd111b57b4fc9'
+    }
+   ]
 })
