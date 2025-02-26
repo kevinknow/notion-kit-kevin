@@ -51,11 +51,15 @@ export default siteConfig({
   // whether to use the default notion navigation style or a custom one with links to
   // important pages
   navigationStyle: 'default'
-   navigationStyle: 'custom',
+  navigationStyle: 'custom',
    navigationLinks: [
     {
       title: 'About',
      pageId: 'c10252a90b224b4092c39023c1e1b45c'
+    },
+    {
+      title: 'MEMS',
+     pageId: '0fcb63382f384435b9cf3d2d8e718e09'
     },
     {
        title: 'How to build a Blog ?',
