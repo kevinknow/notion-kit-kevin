@@ -52,18 +52,18 @@ export default siteConfig({
   // important pages
   navigationStyle: 'default'
   //navigationStyle: 'custom',
-   navigationLinks: [
-    {
-      title: 'About',
-     pageId: 'c10252a90b224b4092c39023c1e1b45c'
-    },
-    {
-      title: 'MEMS',
-     pageId: '0fcb63382f384435b9cf3d2d8e718e09'
-    },
-    {
-       title: 'How to build a Blog ?',
-       pageId: '167a926bd6ec80a7b2ccd111b57b4fc9'
+  //navigationLinks: [
+   // {
+   //   title: 'About',
+  //   pageId: 'c10252a90b224b4092c39023c1e1b45c'
+   // },
+   // {
+    //  title: 'MEMS',
+   //  pageId: '0fcb63382f384435b9cf3d2d8e718e09'
+   // },
+   // {
+   //    title: 'How to build a Blog ?',
+    //   pageId: '167a926bd6ec80a7b2ccd111b57b4fc9'
     }
    ]
 })
